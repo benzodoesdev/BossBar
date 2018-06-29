@@ -1,5 +1,6 @@
 ---
-# This config is only be used for ImpladeMC only! #
+# BOSSBAR CONFIGURATION #
+# ===================== #
 head-message: "&l&6Implade&cMC &7- &bFactions"
 changing-messages:
  - "{0%}&l&aThere are no information due on BETA stage!"
