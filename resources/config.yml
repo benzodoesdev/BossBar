@@ -1,0 +1,10 @@
+---
+# This config is only be used for ImpladeMC only! #
+head-message: "&l&6Implade&cMC &7- &bFactions"
+changing-messages:
+ - "{0%}&l&aThere are no information due on BETA stage!"
+ - "{50%}§lbFaction is a greatest of your favourite game!"
+ - "{100%}&l&eThis server is currently not release to Public!"
+change-speed: 8
+worlds: []
+...
