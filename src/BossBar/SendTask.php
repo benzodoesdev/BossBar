@@ -4,7 +4,7 @@ namespace BossBar;
 
 use pocketmine\scheduler\Task;
 
-class SendTask extends Task{
+class SendTask extends Task {
 
         public function __construct(Main $owner){
                $this->plugin = $owner;
