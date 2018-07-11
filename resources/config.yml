@@ -1,9 +1,9 @@
 ---
 # BOSSBAR CONFIGURATION #
 # ===================== #
-head-message: "§eHEAD TEXT"
+head-message: "§7[§l§cCricix§bPE§r§7]"
 changing-messages:
- - "{100%}§l§bYOUR TEXT"
+ - "{100%}§l§eCricixPE.buycraft.net"
 change-speed: 8
 worlds: []
 ...
